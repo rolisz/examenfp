@@ -1,0 +1,15 @@
+1
+Se invarte Pamantul? (a) Da (b) Nu
+a
+2
+Ii noapte? (a) Da (b) Nu
+b
+3
+Care este functie Python? (a) printf (b) print (c) write
+b
+4
+Este valid a,b = b,a in Python? (a) Da (b) Nu
+a
+5
+Ti-o luat mult sa faci aplicatia asta? (a) Da (b) Nu (c) Nu m-am uitat la ceas
+c
